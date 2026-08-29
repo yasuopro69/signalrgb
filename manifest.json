@@ -1,0 +1,11 @@
+{
+  "id": "aula-f87-pro-signalrgb",
+  "name": "Aula F87 Pro Plugin",
+  "author": "Gin",
+  "version": "1.0.0",
+  "target": "signalrgb",
+  "minVersion": "2.5.0",
+  "files": [
+    "AulaF87Pro.js"
+  ]
+}
